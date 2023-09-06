@@ -1,15 +1,15 @@
 {
   "name": "node-random-color",
   "version": "1.0.0",
-  "type": "module",
   "description": "this app creates random color",
+  "keywords": [],
+  "license": "ISC",
+  "author": "Wael",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Wael",
-  "license": "ISC",
   "devDependencies": {
     "eslint-config-upleveled": "^5.0.4",
     "typescript": "^5.2.2"
