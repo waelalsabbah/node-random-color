@@ -7,6 +7,7 @@ const myColor = randomColor({
 });
 console.log(myColor);
 console.log(chalk.hex(myColor).bold('#999'));
+
 console.log(chalk.hex(myColor).bold('###############################'));
 console.log(chalk.hex(myColor).bold('###############################'));
 console.log(chalk.hex(myColor).bold('###############################'));
